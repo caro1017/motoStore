@@ -298,3 +298,16 @@ ul {
 .footer .menu a:hover{
     text-decoration: underline;
 }
+
+/* Autor */
+.autor{
+    background-color: #0b090a;
+    text-align: center;
+    color: #a4161a;
+    margin: 1rem 0 0 0;
+}
+
+.autor a{
+    text-decoration: none;
+    margin: 5rem;
+}
